@@ -1,6 +1,6 @@
 import * as React from 'react'
 import Link from 'next/link'
-import CustomLayout from '../components/CustomLayout'
+import CustomLayout from '../layouts/CustomLayout'
 import './styles.less'
 
 const IndexPage: React.FunctionComponent = () => {
